@@ -1,0 +1,23 @@
+
+<script>
+    function somaValores(numero) {
+    let soma = 0;
+    for (let i = 1; i < numero; i++) {
+        if (i % 3 === 0 || i % 5 === 0) {
+            soma += i;
+        }
+    }
+    return soma;
+}
+
+// Solicita a entrada do usuário
+const argumento = prompt('Digite um número:');
+const numero = parseInt(argumento);
+if (!isNaN(numero)) {
+    const resultado = somaValores(numero);
+    alert(`A soma dos valores múltiplos de 3 ou 5 até ${numero} é: ${resultado}`);
+    location.reload();
+} else {
+    alert('Forneça um número válido como entrada.');
+}
+</script>
