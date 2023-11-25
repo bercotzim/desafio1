@@ -1,5 +1,3 @@
-# Desafio 1
-
 ## Descrição
 Este projeto consiste em um código (desafio1.js) que realiza uma operação com base em um número fornecido pelo usuário.
 
