@@ -1,6 +1,24 @@
-# desafio1
-Criei duas maneiras para que possa ser executado o código.
-1-
-Basta executar o comando "node desafio1.js 10" na pasta do arquivo desafio1.js, onde 10 seria o número passado(pode passar qualquer um)
-2-
-Abrir o arquivo index.html que abrirá um alert para digitar o valor e clicar em ok que irá aparecer o resultado
+Substitua "10" pelo número desejado.
+
+### Método 2 (Interface HTML)
+1. Abra o arquivo `index.html` em um navegador.
+2. Um alerta será exibido, digite o valor desejado e clique em "OK" para ver o resultado.
+
+## Estrutura de Pastas/Arquivos
+- `desafio1.js`: Código principal.
+- `index.html`: Interface HTML para interação.
+
+## Dependências
+Este projeto não possui dependências externas.
+
+## Exemplos
+Inclua alguns exemplos de como o código pode ser usado.
+
+## Contribuição
+Se você deseja contribuir, siga as diretrizes de contribuição [aqui](link-para-contribuicao).
+
+## Licença
+Este projeto está sob a Licença MIT.
+
+## Contato
+Para perguntas ou sugestões, entre em contato pelo email@example.com.
