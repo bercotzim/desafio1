@@ -1,10 +1,18 @@
-## Descrição
-Este projeto consiste em um código (desafio1.js) que realiza uma operação com base em um número fornecido pelo usuário.
+# Desafio 1
 
 ## Instruções de Uso
-### Método 1 (Node.js)
-1. Execute o seguinte comando na pasta do projeto:
-Substitua "10" pelo número desejado.
+
+### Método 1: Utilizando Node.js
+
+1. Certifique-se de ter o Node.js instalado no seu sistema. Caso não tenha, faça o download e a instalação [aqui](https://nodejs.org/).
+
+2. Abra o terminal na pasta do projeto.
+
+3. Execute o seguinte comando para executar o script, substituindo "10" pelo número desejado:
+
+   ```bash
+   node desafio1.js 10
+
 
 ### Método 2 (Interface HTML)
 1. Abra o arquivo `index.html` em um navegador.
@@ -12,5 +20,5 @@ Substitua "10" pelo número desejado.
 
 ## Estrutura de Pastas/Arquivos
 - `desafio1.js`: Código principal.
-- `index.html`: Interface HTML para interação.
+- `index.html`:  HTML com código para interação.
 
