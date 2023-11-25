@@ -1,3 +1,11 @@
+# Desafio 1
+
+## Descrição
+Este projeto consiste em um código (desafio1.js) que realiza uma operação com base em um número fornecido pelo usuário.
+
+## Instruções de Uso
+### Método 1 (Node.js)
+1. Execute o seguinte comando na pasta do projeto:
 Substitua "10" pelo número desejado.
 
 ### Método 2 (Interface HTML)
@@ -8,17 +16,3 @@ Substitua "10" pelo número desejado.
 - `desafio1.js`: Código principal.
 - `index.html`: Interface HTML para interação.
 
-## Dependências
-Este projeto não possui dependências externas.
-
-## Exemplos
-Inclua alguns exemplos de como o código pode ser usado.
-
-## Contribuição
-Se você deseja contribuir, siga as diretrizes de contribuição [aqui](link-para-contribuicao).
-
-## Licença
-Este projeto está sob a Licença MIT.
-
-## Contato
-Para perguntas ou sugestões, entre em contato pelo email@example.com.
